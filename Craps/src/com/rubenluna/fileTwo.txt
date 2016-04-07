@@ -1,0 +1,7 @@
+Duracion 2
+Ganados primer tiro 4
+Perdidos primer tiro 4
+Ganados persona 16
+Porcentaje persona 66%
+Ganados computador 8
+Porcentaje computador 33%
